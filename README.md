@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧘🏾‍♂️ My name is Hash.<br>🚀 Smart Contract Developer (with Solidity).<br>🌱 Aspiring Smart Contract Security Researcher, Currently participating in contests, and aim to become a proficient smart contract security researcher and programmer dedicated to enhancing the security of web3.<br>
+🧘🏾‍♂️ My name is Hash.<br>🚀 Smart Contract Developer (with Solidity).<br>🌱 Aspiring Smart Contract Security Researcher, Currently participating in contests, and aim to become a proficient smart contract security researcher and programmer dedicated to enhancing the       security of web3.<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Hash01011122) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hash01011122) 
 
