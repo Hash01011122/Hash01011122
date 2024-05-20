@@ -18,6 +18,17 @@
 ### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
+| [TITLES Publishing Protocol](https://audits.sherlock.xyz/contests/326) | Lead Judge |
+| [xKeeper](https://audits.sherlock.xyz/contests/248) | Lead Judge |
+| [Alchemix - Optimism Bridging and Reward Routing](https://audits.sherlock.xyz/contests/273) | Lead Judge |
+| [Arcadia - Aerodrome integrations](https://audits.sherlock.xyz/contests/321) | Lead Judge |
+| [Perpetual](https://audits.sherlock.xyz/contests/219) | 4th |
+| [RadicalxChange](https://audits.sherlock.xyz/contests/191) | Lead Judge |
+| [Zap Protocol](https://audits.sherlock.xyz/contests/243) | Lead Judge |
+| [Mento](https://audits.sherlock.xyz/contests/187) | 7th |
+| [Smilee Finance](https://audits.sherlock.xyz/contests/180) | 5th |
+| [Napier](https://audits.sherlock.xyz/contests/171) | 5th |
+| [Flat Money](https://audits.sherlock.xyz/contests/132) | 7th |
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | 3rd |
 | [JOJO Exchange Update](https://audits.sherlock.xyz/contests/136) | 4th |
 | [Notional Update #4](https://audits.sherlock.xyz/contests/119) | 2nd |
