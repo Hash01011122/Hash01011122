@@ -18,6 +18,10 @@
 ### Judging
 | Contest | Leaderboard | 
 |:--:|:--:|
+| [Notional Leveraged Vaults: Pendle PT and Vault Incentives](https://audits.sherlock.xyz/contests/446/)| 3rd |
+| [SYMMIO v0.83 Update Contest](https://audits.sherlock.xyz/contests/427)| 5th |
+| [Elfi](https://audits.sherlock.xyz/contests/329)| 6th |
+| [PoolTogether: The Prize Layer for DeFi](https://audits.sherlock.xyz/contests/225)| 4th |
 | [TITLES Publishing Protocol](https://audits.sherlock.xyz/contests/326) | Lead Judge |
 | [xKeeper](https://audits.sherlock.xyz/contests/248) | Lead Judge |
 | [Alchemix - Optimism Bridging and Reward Routing](https://audits.sherlock.xyz/contests/273) | Lead Judge |
