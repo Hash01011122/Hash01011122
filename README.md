@@ -12,7 +12,7 @@
 
 # 🏅 Achievements
 
-[Secured an impressive 21st place in Secureum's Race-23rd](https://discord.com/channels/814328279468474419/927065287172427798/1168467272189362266)
+[Secureum's Race-23rd](https://discord.com/channels/814328279468474419/927065287172427798/1168467272189362266)
 
 ## Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=50 height=27>
 ### Judging
